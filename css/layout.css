@@ -16,11 +16,11 @@
 
 @font-face {
     font-family: 'Bebas';
-    src: url('font/Bebas.ttf');
-    src: url('font/Bebas.eot?#iefix') format('embedded-opentype'),
-         url('font/Bebas.woff') format('woff'),
-         url('font/Bebas.ttf') format('truetype'),
-         url('font/Bebas.svg#Bebas') format('svg');
+    src: url('font/bebas.eot');
+    src: url('font/bebas.eot?#iefix') format('embedded-opentype'),
+         url('font/bebas.woff') format('woff'),
+         url('font/bebas.ttf') format('truetype'),
+         url('font/bebas.svg#Bebas') format('svg');
 }
 
 body {

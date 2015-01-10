@@ -165,6 +165,7 @@ span.address {
 }
 .description, .countdown, .socmed {
 	margin-bottom: 20px;
+	    word-spacing: 5px;
 }
 .description, .countdown {
 	display: block;
